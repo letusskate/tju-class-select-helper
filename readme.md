@@ -3,6 +3,10 @@
 
 适用于有一定编程经验的同学，尽量曾经尝试过编写python。
 
+
+https://github.com/user-attachments/assets/33677087-3a9d-45c7-94e4-ee2726cea294
+
+
 （免责声明，本项目是以学习python为目标编写的，本人是一名研究生，并未将此项目用于真实抢课中，希望使用者也不要为了满足一己私利用这个脚本抢课！！！！！）
 
 ## quick start
