@@ -13,7 +13,12 @@ https://github.com/user-attachments/assets/33677087-3a9d-45c7-94e4-ee2726cea294
 ### 步骤一
 安装最新版本chrome浏览器，安装一个版本的python解释器，比如python 3.9
 
-另外需要下载与计算机的chrome版本对应的chrome driver，下载地址：https://chromedriver.chromium.org/downloads
+查看当前的chrome浏览器版本，方法如下截图。
+
+![屏幕截图 2025-09-29 100758](https://github.com/user-attachments/assets/70cd28e7-e46d-40e1-bc96-8ff9acc7173d)
+
+下载与计算机的chrome版本对应的chrome driver，下载地址：https://chromedriver.chromium.org/downloads
+（20250929注：如果chrome版本高于114，则下载地址为：https://googlechromelabs.github.io/chrome-for-testing/）
 
 并将chrome driver放置在工作区正确的位置：./chromedriver-win64/chromedriver-win64/chromedriver.exe
 ### 步骤二
